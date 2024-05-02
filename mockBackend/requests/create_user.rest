@@ -1,0 +1,10 @@
+POST http://localhost:3005/users
+Content-Type: application/json
+
+{
+    "name": "fake name 3",
+    "dateOfBirth": "fake-fake-fake",
+    "ssn": "fake-000",
+    "gender": "fake gender",
+    "occupation": "fake job"
+}

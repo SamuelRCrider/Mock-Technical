@@ -1,0 +1,10 @@
+PUT http://localhost:3005/users/d2773336-f723-11e9-8f0b-362b9e155667
+Content-Type: application/json
+
+{
+    "name": "john is gone",
+    "dateOfBirth": "fake-fake-fake",
+    "ssn": "fake-000",
+    "gender": "fake gender",
+    "occupation": "fake job"
+}
